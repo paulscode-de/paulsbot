@@ -1,5 +1,5 @@
 # paulsbot
-discord bot
+a simple discord bot with stupid ideas. see it in action while development at: [paulsgaming](https://www.paulsgaming.com)
 
 this will be a discord bot with several commands. at the moment only this draft exist.
 
